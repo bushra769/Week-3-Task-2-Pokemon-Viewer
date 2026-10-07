@@ -1,3 +1,5 @@
+![image alt](https://github.com/bushra769/Week-3-Task-2-Pokemon-Viewer/blob/57f6e3149af3d6f642b6f6539d83cbab1dd85bd8/week-3-task-2.png)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
